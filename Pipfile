@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-plotly = "*"
-fastai = "==2.5.3"
 streamlit = "*"
+fastai = "==2.5.3"
+plotly = "*"
 
 [dev-packages]
 
