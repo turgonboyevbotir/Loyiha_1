@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 plotly = "*"
+fastai = "==2.5.3"
 streamlit = "*"
 
 [dev-packages]
